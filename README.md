@@ -1,4 +1,4 @@
-# atomsync
+# chronproc 
 
 A digital clock and alarm application designed for the Kinetis K60 microcontroller (using the FITkit 3 platform).
 
